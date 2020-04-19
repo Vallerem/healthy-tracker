@@ -1,0 +1,17 @@
+{
+  "name": "healthyTracker",
+  "displayName": "healthyTracker",
+  "expo": {
+    "name": "healthyTracker",
+    "slug": "healthyTracker",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
